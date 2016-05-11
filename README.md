@@ -53,3 +53,14 @@
 #### Посилання на [сторінку](web-ui-team-b.github.io/html5-team)
 
 
+### Осіпов Володимир
+
+Виконав наступне:
+
+- Мокап та верстка сторінки index2.html ("Бронювання")
+- Наповнення контентом news3.html
+
+#### Посилання на власний [репозиторій](https://github.com/mrvolodymyr/html5-team).
+#### Посилання на головний [репозиторій](https://github.com/WEB-UI-TEAM-B/html5-team)
+#### Посилання на [сторінку](web-ui-team-b.github.io/html5-team)
+
